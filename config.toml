@@ -1,0 +1,29 @@
+base_url = "https://viridianlibrary.net"
+title = "Viridian Library"
+description = "Asdf"
+theme = "apollo"
+compile_sass = true
+build_search_index = false
+
+[markdown]
+highlight_code = true
+
+[extra]
+theme = "toggle"
+repo_url = "https://github.com/spide-r/ViridianLibrary"
+
+menu = [
+   # { name = "/projects", url = "/projects", weight = 1 },
+   # { name = "/plugins", url = "/xivplugins", weight = 2 },
+   # { name = "/sites", url = "/coolsites", weight = 3 },
+   # { name = "/library", url = "/library", weight = 4 },
+]
+
+
+
+socials = [
+    { name = "github", url = "https://github.com/spide-r/", icon = "github" },
+    { name = "bluesky", url = "https://bsky.app/profile/spiiiiiiiiider.bsky.social", icon = "bluesky" },
+]
+
+
