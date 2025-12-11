@@ -9,6 +9,7 @@ build_search_index = false
 highlight_code = true
 
 [extra]
+favicon = "/icon/favicon.png"
 theme = "toggle"
 repo_url = "https://github.com/spide-r/ViridianLibrary"
 
