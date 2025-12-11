@@ -9,10 +9,11 @@ My weapon of choice is OOP. Specifically, Java and C#.
 
 I am currently employed at [\${publicly_traded_company}](/) working as a [\${job_title}](/). 
 
-# Top of Mind:
+# Top of Mind
 
-Consolidating the various online services I use, and determining the effort required to fully migrate to Linux.
-
+- Consolidating the various online services I use
+- Determining the effort required to fully migrate to Linux
+- Learning and applying IAC concepts
 
 
 

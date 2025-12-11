@@ -1,6 +1,6 @@
 base_url = "https://viridianlibrary.pages.dev"
 title = "Viridian Library"
-description = "Asdf"
+description = "Perpetually Under Construction"
 theme = "apollo"
 compile_sass = true
 build_search_index = false
