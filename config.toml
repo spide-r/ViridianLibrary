@@ -1,4 +1,4 @@
-base_url = "viridianlibrary.pages.dev"
+base_url = "https://viridianlibrary.pages.dev"
 title = "Viridian Library"
 description = "Asdf"
 theme = "apollo"
