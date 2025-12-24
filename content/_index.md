@@ -1,6 +1,7 @@
 +++
 template = "homepage.html"
 +++
+
 # Hey Friend!
 I'm Spider. You may also know me as A'zhek. I'm a hobbyist software developer,
 tending to focus my efforts on projects that help people & communities close to me. 
@@ -12,8 +13,8 @@ I am currently employed at [\${publicly_traded_company}](/) working as a [\${job
 # Top of Mind
 
 - Consolidating the various online services I use
-- Determining the effort required to fully migrate to Linux
-- Learning and applying IAC concepts
+- Learning and applying IaC concepts
+- Rebooting after the holiday season
 
 
 

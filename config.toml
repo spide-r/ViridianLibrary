@@ -14,8 +14,9 @@ theme = "toggle"
 repo_url = "https://github.com/spide-r/ViridianLibrary"
 
 menu = [
-   # { name = "/projects", url = "/projects", weight = 1 },
-   # { name = "/plugins", url = "/xivplugins", weight = 2 },
+   { name = "/projects", url = "/projects", weight = 1 },
+   { name = "/plugins", url = "/plugins", weight = 2 },
+   { name = "/publishing", url = "/crp", weight = 3 },
    # { name = "/sites", url = "/coolsites", weight = 3 },
    # { name = "/library", url = "/library", weight = 4 },
 ]
