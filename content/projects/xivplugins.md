@@ -4,4 +4,5 @@ description = "I maintain a fair handful of FFXIV Plugins. In order to avoid clu
 date = 2024-01-01
 [extra]
 link_to = "/plugins"
+demo = "/plugins"
 +++
