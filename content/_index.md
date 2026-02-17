@@ -23,9 +23,9 @@ Check my [projects](/projects) to see what I like to do and what I'm capable of.
 
 # Top of Mind
 
-- Consolidating the various online services I use
+- Convincing myself to put in the effort to make a comfy home server
 - Learning and applying IaC concepts
-- Rebooting after the holiday season
+- Kubernetes and Kubernetes accessories
 
 
 
