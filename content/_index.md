@@ -8,26 +8,4 @@ tending to focus my efforts on projects that help people & communities close to 
 
 My weapon of choice is OOP. Specifically, Java and C#.
 
-I am currently employed at [\${publicly_traded_company}](/) working as a [\${job_title}](/). 
-
-# Commissions 
-- Have an idea that you think would make an excellent XIV Plugin?
-- Do you think to yourself "I really wish this tool existed"?
-- Are you a part of a community that doesn't have it's niche met by existing sites, discord bots, or other software?
-
-Lets chat on [Bluesky](https://bsky.app/profile/spiiiiiiiiider.bsky.social)!
-
-Rates will depend heavily on the type of work needed. I am able to contribute to both open and closed source projects.
-
-Check my [projects](/projects) to see what I like to do and what I'm capable of.
-
-# Top of Mind
-
-- Convincing myself to put in the effort to make a comfy home server
-- Learning and applying IaC concepts
-- Kubernetes and Kubernetes accessories
-
-
-
-
-
+I am currently employed at [\${publicly_traded_company}](/) working as a [\${job_title}](/).
